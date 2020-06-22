@@ -4,13 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/index.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> enviando td
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.21.1",
@@ -18,5 +23,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
+=======
+    "express": "^4.17.1"
+>>>>>>> enviando td
   }
 }
